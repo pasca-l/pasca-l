@@ -3,7 +3,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pasca-l&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pasca-l&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pasca-l&theme=nord_dark&utcOffset=8)
-[![trophy](https://github-profile-trophy.vercel.app/?username=pasca-l&theme=onedark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=pasca-l&theme=onedark&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Hi there 👋

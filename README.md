@@ -3,13 +3,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pasca-l&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pasca-l&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pasca-l&theme=nord_dark&utcOffset=8)
-[![trophy](https://github-profile-trophy.vercel.app/?username=pasca-l&theme=onedark&column=8
-)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pasca-l&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Hi there 👋
 
 <!--
 **pasca-l/pasca-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
